@@ -1,2 +1,2 @@
-# sbox-terryz
-Zombie gamemode testing
+# sbox-template
+s&box template game
